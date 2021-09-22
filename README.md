@@ -1,4 +1,4 @@
-# Exercises
+# Quests
 Collection of C# exercises:
 
 Trivial:
